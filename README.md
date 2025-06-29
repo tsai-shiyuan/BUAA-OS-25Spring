@@ -28,6 +28,11 @@
 - [cookedbear](https://cookedbear.top/p/1727.html) 上机回忆和笔记
 - [yanna-zy](https://yanna-zy.github.io/tags/BUAA-OS/) 上机回忆
 
+## 理论笔记
+
+- [solor-wind | OS理论笔记](https://solor-wind.github.io/2024/07/02/OS%E7%90%86%E8%AE%BA%E7%AC%94%E8%AE%B0/#)
+- [buaaczx | 2024 BUAA OS 理论复习笔记](https://buaaczx.github.io/posts/20240713-os-final/)
+
 ## 参考资料
 
 - [b站｜编译链接原理](https://www.bilibili.com/video/BV1FL411g7m5/?vd_source=37b3a9569c1a7ec7c7b6d914bcf05344)
